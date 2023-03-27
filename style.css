@@ -1,0 +1,48 @@
+.nav ul {
+    display: flex;
+    flex-direction: row;
+}
+
+ul {
+    justify-content: end;
+}
+
+ul li {
+    list-style-type: none;
+    margin-right: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    text-align: center;
+    /* padding: 2rem; */
+    /* border: 2rem solid black; */
+}
+
+h1 {
+    text-align: center;
+}
+
+.intro img {
+    height: 150px;
+    padding-top: 2rem ;
+    /* width: 500px; */
+}
+
+.intro{
+    display: flex;
+    padding-top: 3rem;
+    margin: 1rem;
+}
+
+.intro p {
+    padding: 0 2rem;
+    background-color: bisque;
+    margin: 0 0.5rem;
+}
+
+h3{
+    text-align: center;
+}
+
+.footer{
+    float: right;
+}
